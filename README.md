@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-bangera&show_icons=true&locale=en" alt="sneha-bangera" /></p>
 -->
 
-<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h1 align="center">Hello, I'm Sneha</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
