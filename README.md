@@ -1,38 +1,98 @@
-
-
-<!--
-## Hi there 👋
-**sneha-bangera/sneha-bangera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-<a href="https://www.hackerrank.com/snehabangera05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@snehabangera05" height="30" width="40" /></a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-bangera&show_icons=true&locale=en" alt="sneha-bangera" /></p>
--->
-
-<h1 align="center">Hello, I'm Sneha</h1>
-<h3 align="center">Web Developer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sneha-bangera-6ba99b2b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-bangera-6ba99b2b5" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="/banner_github.png" alt="Sneha Banner" width="100%" />
 </p>
 
-# Languages and Tools:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=B5D8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sneha;Web+Developer+%7C+AIML+Student;ML+Enthusiast+%7C+Creative+Thinker;Welcome+to+my+GitHub" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-bangera&show_icons=true&locale=en&layout=compact" alt="sneha-bangera" /></p>
 
 
+
+<!-- <h1 align="center" style="color:#F4A7B9;">Hi, I'm Sneha 👋</h1>
+<h3 align="center" style="color:#A7C7E7;">A Passionate Web Developer & AIML Engineering Student</h3> -->
+
+---
+
+<!-- About Me Section -->
+<h2 align="center"><font color="#F7A8B8">About Me</font></h2>
+
+<div align="center">
+  <div align="center" style="border: 1px solid #F7A8B8; border-radius: 10px; padding: 15px; width: 80%; margin: auto;">
+AIML Engineering Student • Web Developer • ML Enthusiast  
+</div> <br>
+  <p>I love designing clean UIs, building web apps, and exploring AI/ML</p>
+  <p>I enjoy painting, drawing, and reading novels in my free time  </p>
+</div>
+
+
+---
+
+<h2 align="center"><font color="#F7A8B8">Connect With Me</font></h2>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/sneha-bangera-6ba99b2b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+</p>
+
+
+---
+
+<h2 align="center"><font color="#F7A8B8">Technology & Tools</font></h2>
+
+### Languages  
+![C](https://img.shields.io/badge/C-F7DDE2?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F2C8ED?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7A8B8?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B6D8F2?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-A7C7E7?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCE1A8?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-F7A8A3?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A7C7E7?style=for-the-badge&logo=css3&logoColor=white)
+![NextJs](https://img.shields.io/badge/Next.js-F2C8ED?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-B6D8F2?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-AEE5D8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-C1E1C1?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-EDE7F6?style=for-the-badge&logo=express&logoColor=212121)
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-A7C7E7?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-C1E1C1?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Science & ML  
+![NumPy](https://img.shields.io/badge/NumPy-B6D8F2?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-F2C8ED?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F7DDE2?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-A7C7E7?style=for-the-badge&logo=seaborn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-F4A7B9?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F7A8A3?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F2C8ED?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-AEE5D8?style=for-the-badge&logo=Canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F7A8B8?style=for-the-badge&logo=postman&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F7D8BA?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## GitHub Stats  
+<p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sneha-bangera&show_icons=true&theme=rose_pine" height="160" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-bangera&layout=compact&theme=rose_pine" height="160" />
+</p>
+
+---
+
+✨ I love combining **creativity + tech** — whether it’s building websites, visualizing ML data, or designing UI!
+
+<!-- Pastel footer -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F7DDE2&height=120&section=footer&text=Thanks%20for%20visiting%20💗&fontSize=30" />
+</p> -->
